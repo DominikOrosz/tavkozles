@@ -15,7 +15,10 @@
 **Antenna típusa:** [Opticum SMART HD 550](https://antenna.arukereso.hu/opticum/smart-hd-550-p247056991/)  
 **Antenna magassága:** 1.7 m  
 **Környezet jellemzői:** V3 labor, városi körülmények között  
-**Adó távolsága:** 780,08 m
+**Adó távolsága:** 780,08 m  
+Elhelyezkedés:  
+<img width="779" height="692" alt="map" src="https://github.com/user-attachments/assets/81288008-a949-4f05-b930-ea23b08daf0d" />
+
 
 ### 3. Mérési paraméterek ###
 Adó frekvencia 586 MHz
