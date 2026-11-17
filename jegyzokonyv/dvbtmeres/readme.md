@@ -19,9 +19,15 @@
 
 ### 3. Mérési paraméterek ###
 Adó frekvencia 
+
 Sávszélesség
+
 Moduláció tipusa
+
 Jelerősség (RSSI)
+
 MER	
+
 Noise Margin	
+
 Hiba nélkül vett adás időtartama
