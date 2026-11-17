@@ -30,9 +30,13 @@ Noise Margin	10.4
 Hiba nélkül vett adás időtartama  200 sec  
 
 A Miskolci TV adótorony által sugárzott frekvenciák  
-A CH45 -ös csatornán mért spektrum  
+A CH45 -ös csatornán mért spektrum 
+
 A CH45 -ös csatornán mért jelerősség, jel/zaj viszony, és bithibák  
+
 A CH45 -ös csatorna konstellációs diagramja  
+
 A CH45 -ös csatornán a DUNATV HD jelszint és TV adás  
+
 A CH45 -ös csatornán a DUNATV HD műsora  
 
