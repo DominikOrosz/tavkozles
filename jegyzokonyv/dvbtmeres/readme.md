@@ -18,16 +18,16 @@
 **Adó távolsága:** 780,08 m
 
 ### 3. Mérési paraméterek ###
-Adó frekvencia 
+Adó frekvencia 586 MHz
 
-Sávszélesség
+Sávszélesség 8MHz
 
-Moduláció tipusa
+Moduláció tipusa 64-QAM, 8k, 1/4
 
-Jelerősség (RSSI)
+Jelerősség (RSSI) 
 
-MER	
+MER	27db
 
-Noise Margin	
+Noise Margin	10.4
 
 Hiba nélkül vett adás időtartama
