@@ -1,17 +1,4 @@
-<img width="1280" height="720" alt="its_snapshot_0025" src="https://github.com/user-attachments/assets/779508dc-ae44-4ce2-84cf-0eaacccbda26" />
-<img width="1280" height="720" alt="its_snapshot_0025" src="https://github.com/user-attachments/assets/3ab9a900-834e-4964-8eaa-9f5ac4074f4b" />
-<img width="937" height="528" alt="Képernyőkép 2026-11-17 102831" src="https://github.com/user-attachments/assets/dffaca5e-71f5-4b08-8404-7a9f38e48baa" />
-<img width="937" height="528" alt="Képernyőkép 2026-11-17 102831" src="https://github.com/user-attachments/assets/292f8a00-36b9-4a87-abbf-8e113317fde4" />
-[its_snapshot_0025.bmp](https://github.com/user-attachments/files/34962864/its_snapshot_0025.bmp)
-[its_snapshot_0025.bmp](https://github.com/user-attachments/files/34962838/its_snapshot_0025.bmp)
-[its_snapshot_0024.bmp](https://github.com/user-attachments/files/34962759/its_snapshot_0024.bmp)
-[its_snapshot_0023.bmp](https://github.com/user-attachments/files/34962758/its_snapshot_0023.bmp)
-[its_snapshot_0026.bmp](https://github.com/user-attachments/files/34962757/its_snapshot_0026.bmp)
-[its_snapshot_0025.bmp](https://github.com/user-attachments/files/34962756/its_snapshot_0025.bmp)
-[its_snapshot_0024.bmp](https://github.com/user-attachments/files/34962740/its_snapshot_0024.bmp)
-[its_snapshot_0023.bmp](https://github.com/user-attachments/files/34962738/its_snapshot_0023.bmp)
-[its_snapshot_0026.bmp](https://github.com/user-attachments/files/34962737/its_snapshot_0026.bmp)
-[its_snapshot_0025.bmp](https://github.com/user-attachments/files/34962735/its_snapshot_0025.bmp)
+
 # DVB-T jegyzőkönyv #
 **Mérési hely:** Miskolci SZC Kandó Kálmán Informatikai Technikum  
 **Mérési időpont:** 2026.11.11.  
@@ -47,12 +34,14 @@ A Miskolci TV adótorony által sugárzott frekvenciák
 <img width="1613" height="648" alt="miskolciTV" src="https://github.com/user-attachments/assets/bad4d9cf-60a0-4250-9ac0-002d6a2c587a" />
 
 A CH45 -ös csatornán mért spektrum 
-
+<img width="1280" height="720" alt="its_snapshot_0025" src="https://github.com/user-attachments/assets/779508dc-ae44-4ce2-84cf-0eaacccbda26" />  
 A CH45 -ös csatornán mért jelerősség, jel/zaj viszony, és bithibák  
+<img width="1280" height="720" alt="its_snapshot_0026" src="https://github.com/user-attachments/assets/f1474c51-39f4-45e4-89e0-3c3570be1655" />  
 
 A CH45 -ös csatorna konstellációs diagramja  
 
-A CH45 -ös csatornán a DUNATV HD jelszint és TV adás  
+A CH45 -ös csatornán a M2 HD jelszint és TV adás  
+<img width="1280" height="720" alt="its_snapshot_0023" src="https://github.com/user-attachments/assets/699f5430-6ece-42e9-b12c-766f3de0aca3" />  
 
-A CH45 -ös csatornán a DUNATV HD műsora  
-
+A CH45 -ös csatornán a M2 HD műsora  
+ <img width="1280" height="720" alt="its_snapshot_0024" src="https://github.com/user-attachments/assets/e47cf21c-f978-422d-bc05-5d396fd85fb2" />  
