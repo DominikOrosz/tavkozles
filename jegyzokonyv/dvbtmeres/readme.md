@@ -30,6 +30,8 @@ Noise Margin	10.4
 Hiba nélkül vett adás időtartama  200 sec  
 
 A Miskolci TV adótorony által sugárzott frekvenciák  
+<img width="1613" height="648" alt="miskolciTV" src="https://github.com/user-attachments/assets/bad4d9cf-60a0-4250-9ac0-002d6a2c587a" />
+
 A CH45 -ös csatornán mért spektrum 
 
 A CH45 -ös csatornán mért jelerősség, jel/zaj viszony, és bithibák  
