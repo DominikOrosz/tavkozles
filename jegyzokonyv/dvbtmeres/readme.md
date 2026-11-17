@@ -1,3 +1,17 @@
+<img width="1280" height="720" alt="its_snapshot_0025" src="https://github.com/user-attachments/assets/779508dc-ae44-4ce2-84cf-0eaacccbda26" />
+<img width="1280" height="720" alt="its_snapshot_0025" src="https://github.com/user-attachments/assets/3ab9a900-834e-4964-8eaa-9f5ac4074f4b" />
+<img width="937" height="528" alt="Képernyőkép 2026-11-17 102831" src="https://github.com/user-attachments/assets/dffaca5e-71f5-4b08-8404-7a9f38e48baa" />
+<img width="937" height="528" alt="Képernyőkép 2026-11-17 102831" src="https://github.com/user-attachments/assets/292f8a00-36b9-4a87-abbf-8e113317fde4" />
+[its_snapshot_0025.bmp](https://github.com/user-attachments/files/34962864/its_snapshot_0025.bmp)
+[its_snapshot_0025.bmp](https://github.com/user-attachments/files/34962838/its_snapshot_0025.bmp)
+[its_snapshot_0024.bmp](https://github.com/user-attachments/files/34962759/its_snapshot_0024.bmp)
+[its_snapshot_0023.bmp](https://github.com/user-attachments/files/34962758/its_snapshot_0023.bmp)
+[its_snapshot_0026.bmp](https://github.com/user-attachments/files/34962757/its_snapshot_0026.bmp)
+[its_snapshot_0025.bmp](https://github.com/user-attachments/files/34962756/its_snapshot_0025.bmp)
+[its_snapshot_0024.bmp](https://github.com/user-attachments/files/34962740/its_snapshot_0024.bmp)
+[its_snapshot_0023.bmp](https://github.com/user-attachments/files/34962738/its_snapshot_0023.bmp)
+[its_snapshot_0026.bmp](https://github.com/user-attachments/files/34962737/its_snapshot_0026.bmp)
+[its_snapshot_0025.bmp](https://github.com/user-attachments/files/34962735/its_snapshot_0025.bmp)
 # DVB-T jegyzőkönyv #
 **Mérési hely:** Miskolci SZC Kandó Kálmán Informatikai Technikum  
 **Mérési időpont:** 2026.11.11.  
