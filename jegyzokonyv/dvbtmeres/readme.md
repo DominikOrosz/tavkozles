@@ -27,4 +27,12 @@ Moduláció tipusa 64-QAM, 8k, 1/4
 Jelerősség (RSSI)   
 MER	27db  
 Noise Margin	10.4  
-Hiba nélkül vett adás időtartama  488 sec
+Hiba nélkül vett adás időtartama  200 sec  
+
+A Miskolci TV adótorony által sugárzott frekvenciák  
+A CH45 -ös csatornán mért spektrum  
+A CH45 -ös csatornán mért jelerősség, jel/zaj viszony, és bithibák  
+A CH45 -ös csatorna konstellációs diagramja  
+A CH45 -ös csatornán a DUNATV HD jelszint és TV adás  
+A CH45 -ös csatornán a DUNATV HD műsora  
+
