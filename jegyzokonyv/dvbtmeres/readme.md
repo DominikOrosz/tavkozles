@@ -27,4 +27,4 @@ Moduláció tipusa 64-QAM, 8k, 1/4
 Jelerősség (RSSI)   
 MER	27db  
 Noise Margin	10.4  
-Hiba nélkül vett adás időtartama  
+Hiba nélkül vett adás időtartama  488 sec
